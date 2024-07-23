@@ -171,7 +171,30 @@ main {
     padding: 20px;
     width: 100%;
     background-color: #DEB675;
-    color: #F5DDB0;
+    color: #A61A41;
+}
+
+.hautjaune {
+    text-align: center;
+    padding: 0 0 40px 0;
+    background-color: #F6F190;
+    margin-top: 0;
+}
+
+.leftgreen {
+    display:inline-block;
+    background-color: #99D978;
+    padding: 41px;
+    height: 300px;
+}
+
+.rightgreen {
+    display: inline-block;
+    background-color: #31766F;
+    padding: 41px;
+    height: 300px;
+    width: 249px;
+
 }
 
 .transparent {
