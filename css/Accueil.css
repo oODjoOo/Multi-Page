@@ -119,6 +119,61 @@ main {
     padding: 20px;
 }
 
+.blockblue {
+    padding: 85px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #2CC5C5;
+
+}
+
+.blocklightyellow {
+    padding: 25px;
+    width: 25px;
+    height: 25px;
+    background-color: #FDEE9D;
+    margin-left: 410px;
+    margin-top: -250px;
+
+}
+
+.blockdarkblue {
+    position: relative;
+    padding: 250px;
+    background-color: #275173;
+}
+
+.blockorange {
+    padding: 25px;
+    height: 25px;
+    width: 25px;
+    background-color: orangered;
+    position: absolute;
+    top: 242px;
+    left: 102px;
+}
+
+.brownpour {
+    padding: 20px;
+    width: 30%;
+    background-color: #34191D;
+    color: #F5DDB0;
+}
+
+.pinkpour {
+    padding: 20px;
+    width: 50%;
+    background-color: #A61A41;
+    color: #F5DDB0;
+}
+
+.yellowpour {
+    padding: 20px;
+    width: 100%;
+    background-color: #DEB675;
+    color: #F5DDB0;
+}
+
 .transparent {
     padding-top: 40px;
     background-color: rgba(0,0,0,.1)
